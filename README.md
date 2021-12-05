@@ -3,7 +3,7 @@
 
 Moving from SmallHost to another host? Want to make sure your files are okay in case of data loss? You might want to back up your files. I made it easy by making this tool.
 
-1. [Click here for the raw backup.bat file.](https://raw.githubusercontent.com/SmallHost/SmallHost-Backuo/main/backup.bat)
+1. [Click here for the raw backup.bat file.](https://raw.githubusercontent.com/SmallHost/SmallHost-Backup/main/backup.bat)
 2. Run keyboard command `CTRL + S`.
 3. Under the `Save as Type` dropdown, select `All Files`. At the end of the file name, type `.bat`.
 4. Save it.
